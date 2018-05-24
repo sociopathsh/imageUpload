@@ -14,6 +14,10 @@
                         </div>
                     @endif
 
+                    <div id="app">
+                        <profile></profile>
+                    </div>
+
                 </div>
             </div>
         </div>
