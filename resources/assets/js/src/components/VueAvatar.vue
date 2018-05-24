@@ -46,7 +46,7 @@
 			},
 			border:{
 				type:Number,
-				default:5
+				default:25
 			},
 			borderRadius:{
 				type:Number,
@@ -63,7 +63,7 @@
 			color:{
 				type:Array,
 				default:function(){return [0, 0, 0, 0.5]}
-			},
+			}
 		},
 		data:function(){
 			return {
